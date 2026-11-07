@@ -42,8 +42,6 @@ Docker/Git/GitHub 개발 workstation 구축 미션
 - [x] Linux 설치
 - [x] Ubuntu 설치
 
-- [x] GitHub Repository 생성
-
 - [x] Docker 실습
     - [x] Ubuntu 컨테이너 실행 
             - [x] attach/exec 실습
@@ -59,10 +57,6 @@ Docker/Git/GitHub 개발 workstation 구축 미션
         - [x] 같은 Volume을 새 컨테이너에 연결
         - [x] 새 컨테이너 에서 데이터유지 확인
         
-
-
-
-
 - [x] 권한 실습
 
 # 4. DockerFile Custom
